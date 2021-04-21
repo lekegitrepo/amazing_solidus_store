@@ -397,6 +397,7 @@ DEPENDENCIES
   selenium-webdriver
   solidus
   solidus_auth_devise
+  solidus_sample
   spring
   turbolinks (~> 5)
   tzinfo-data
